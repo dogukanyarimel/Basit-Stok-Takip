@@ -77,7 +77,7 @@ Bu projeyi GitHub Pages ile ücretsiz olarak yayınlayabilirsiniz:
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## 👤 Geliştirici
-Doğukan Yarımel
+[Doğukan Yarımel]
 
 Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz!
 
