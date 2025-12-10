@@ -48,7 +48,7 @@ cd Basit-Stok-Takip
 ## 📁 Proje Yapısı
 
 ```
-ACM365-STOK TAKİP/
+Basit Stok Takip/
 ├── index.html      # Ana HTML dosyası
 ├── app.js          # JavaScript mantığı ve localStorage işlemleri
 ├── style.css       # Özel CSS stilleri
@@ -77,6 +77,7 @@ Bu projeyi GitHub Pages ile ücretsiz olarak yayınlayabilirsiniz:
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## 👤 Geliştirici
+Doğukan Yarımel
 
 Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz!
 
