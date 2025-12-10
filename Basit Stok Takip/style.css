@@ -1,0 +1,9 @@
+body {
+    background-color: #f8f9fa; /* Bootstrap'in standart hafif gri arka planı */
+}
+
+/* Tablodaki butonların ortalanması için (align-middle yetmezse) */
+#stok-tablosu td .sil-btn {
+    display: block;
+    margin: auto;
+}
